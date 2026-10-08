@@ -1,6 +1,6 @@
 # INSA Summer Camp Project
 
-This repository contains a small project I built during the INSA Summer Camp. The main focus is learning how encryption works in practice, especially using the RC4 stream cipher and binary file processing in C++.
+This repository contains one of a small project I built during the INSA Summer Camp. The main focus is learning how encryption works in practice, especially using the RC4 stream cipher and binary file processing in C++.
 
 It is a simple educational project, designed to help understand:
 
@@ -24,7 +24,7 @@ This project includes:
 
 ## Screenshots
 
-Here are a few screenshots from the project:
+Here are a few screenshots from the TryHackMe:
 
 ![Project screenshot 1](Screenshot%202026-08-02%20025001.png)
 
