@@ -1,6 +1,6 @@
 # INSA Summer Camp Project
 
-This repository contains one of a small project I built during the INSA Summer Camp. The main focus is learning how encryption works in practice, especially using the RC4 stream cipher and binary file processing in C++.
+A collection of files and small projects select from INSA Summer camp but it is not only this. in this repo main focus is learning how encryption works in practice, especially using the RC4 stream cipher and binary file processing in C++.
 
 It is a simple educational project, designed to help understand:
 
